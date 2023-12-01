@@ -18,4 +18,4 @@
 ### **Publication**
 - Yian Pei has co-authored a publication titled "Development and analysis of a novel AF11–2 aptamer capable of enhancing the fluorescence of aflatoxin B1," which was featured in the Chinese Chemical Letters in 2022. This publication reflects their contributions to cutting-edge research in the field.
 
-<img src="photo.jpg" alt="photo">
+<img src="photo.jpg" alt="photo" width="300" height="420">
