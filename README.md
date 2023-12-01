@@ -6,33 +6,7 @@ This repository is the problem set 2 for the course ECON211.
 This project aims to improve heart failure prediction by integrating Explainable Artificial Intelligence (XAI) techniques into a binary classification model. Focused on healthcare, the research utilizes machine learning algorithms and a diverse dataset to enhance transparency and interpretability. The outcomes are expected to yield a refined predictive model, fostering collaboration between healthcare professionals and AI. The intellectual merits lie in advancing healthcare AI, offering transparent and trustworthy models, while the practical impact empowers clinicians with a tool that predicts heart failure and provides understandable insights for improved patient outcomes.
 
 ## Table of Contents
-1. [Self Introduction](#self-introduction)
-2. [Literature](#Literature)
-   1. [Part I](#)
-      - [Background](#introduction)
-      - [Research Question](#ResearchQuestion)
-      - [Application Scenario](#Application-Scenario)
-      - [Methodology](#Methodology)
-      - [Results](#Results)
-      - [Intellectual Merits and Practical Impacts](#Intellectual)
-      - [Flowchart](#flowchart)
-      - [XAI Relation](https://github.com/Rising-Stars-by-Sunshine/ECON211_PS1_Yian/tree/main/Lit#xai-relation)
-   2. [Part II: Predicting Heart Failure](#id)
-      - [Background/Motivation](#backgroundmotivation)
-      - [Research Question](#research-question)
-      - [Application Scenarios](#application-scenarios)
-      - [Data](https://github.com/Rising-Stars-by-Sunshine/ECON211_PS1_Yian/tree/main/Lit#data)
-      - [Methodology](#methodology)
-      - [Results](#results)
-      - [Intellectual Merits/Practical Impacts](#intellectual-meritspractical-impacts)
-      - [Flowchart](#flowchart-1)
-      - [Citation](#citations-for-this-part)
-3. [Data](#data)
-   - [Data dictionary](#data-dictionary)
-   - [Flowchart](#flowchart-2)
-4. [Code](#code)
-   - [Flowchart](#flowchart-2)
-   - [Pseudo-code](#pseudo-code)
+
   
 ## Self-Introduction
 ### **Education**
