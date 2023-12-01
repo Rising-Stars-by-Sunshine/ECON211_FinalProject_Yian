@@ -2,7 +2,7 @@
 
 ## Data Query
 
-The data was directly downloaded from kaggle www.kaggle.com.
+The data was directly downloaded from kaggle www.kaggle.com. The following steps show the querying process.
 
 ### Step 1
 
