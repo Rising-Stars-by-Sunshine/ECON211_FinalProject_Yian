@@ -10,9 +10,7 @@ This research endeavors to explore the potential of XAI techniques in enhancing 
 The practical application of this research is embedded in the healthcare landscape, where the developed model can serve as a crucial tool for clinicians and healthcare providers. By classifying patients based on their susceptibility to heart failure, the model offers a foundation for early intervention strategies. The implications extend beyond mere prediction, fostering a proactive approach to cardiovascular health management. Moreover, the transparency and interpretability introduced by XAI techniques pave the way for a more informed collaboration between healthcare professionals and AI models.
 
 ## Methodology:
-**Model Development:** Train machine learning models for heart failure prediction.
-
-**XAI:** Apply SHAP to apply explainability to the model.
+The research methodology involves the utilization of a binary classification model with a dataset comprising multiple numerical and categorical features. Machine learning algorithms will be employed to predict the likelihood of heart failure in patients. To enhance transparency and interpretability, Explainable AI techniques will be integrated into the model development process. This includes visualizations, feature importance analyses, and other XAI tools to elucidate the decision-making process of the model.
 
 ## Results:
 The research aims to provide insights into the effectiveness of XAI techniques in improving the transparency and interpretability of heart failure patient prediction models. Results will encompass quantitative model performance metrics and qualitative assessments of model interpretability.
