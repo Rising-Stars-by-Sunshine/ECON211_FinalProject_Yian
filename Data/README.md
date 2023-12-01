@@ -24,3 +24,7 @@
 |-----|-----|---------------|-----------|-------------|-----------|------------|-------|-----------------|---------|----------|--------------|
 | 40  | M   | ATA           | 140       | 289         | 0         | Normal     | 172   | N               | 0       | Up       | 0            |
 
+## Data Download
+https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data
+
+
