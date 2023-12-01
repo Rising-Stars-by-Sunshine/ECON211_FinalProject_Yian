@@ -21,3 +21,11 @@ After successfully logging into kaggle, go to https://www.kaggle.com/datasets/fe
 Click **Download(9kb)**.
 
 <img src="Step3.png" alt="Step3">
+
+### Step 4
+
+A file named **achieve.zip** will be downloaded. UnZip it. There will be a file named **heart.csv**.
+
+<img src="Step4-1.png" alt="Step4-1">
+
+<img src="Step4-2.png" alt="Step4-2">
