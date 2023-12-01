@@ -6,7 +6,7 @@ The data was directly downloaded from kaggle www.kaggle.com.
 
 ### Step 1
 
-Go to www.kaggle.com. Click **sign up** or **log in**.
+Go to www.kaggle.com. Click **sign in** or **Register**.
 
 ### Step 2
 
