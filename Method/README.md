@@ -1,7 +1,7 @@
 # Method
 
 ## Background/Motivation:
-Heart failure remains a pervasive and life-threatening medical condition with substantial mortality rates, underscoring the critical need for accurate survival prediction to inform effective medical management (Wrazen et al., 2023). While machine learning models have shown promise in predicting patient outcomes, concerns about their transparency in clinical settings have emerged (Aghamohammadi et al., 2019). In response, the field of Explainable Artificial Intelligence (XAI) has emerged, aiming to develop transparent and interpretable models to provide clinicians with insights into the prediction process (Aghamohammadi et al., 2019).
+Cardiovascular diseases (CVDs) constitute the primary cause of worldwide mortality, responsible for approximately 17.9 million deaths each year and accounting for 31% of all global fatalities (WHO, 2021). Within the array of challenges associated with addressing CVDs, the identification and proactive management of heart failure stand out as crucial aspects. Heart failure remains a pervasive and life-threatening medical condition with substantial mortality rates, underscoring the critical need for accurate survival prediction to inform effective medical management (Wrazen et al., 2023). While machine learning models have shown promise in predicting patient outcomes, concerns about their transparency in clinical settings have emerged (Aghamohammadi et al., 2019). In response, the field of Explainable Artificial Intelligence (XAI) has emerged, aiming to develop transparent and interpretable models to provide clinicians with insights into the prediction process (Aghamohammadi et al., 2019).
 
 ## Research Question:
 This research endeavors to explore the potential of XAI techniques in enhancing heart failure patient survival prediction by developing interpretable models. Specifically, the study seeks to address the following research question: "Can the integration of XAI techniques improve the transparency and interpretability of heart failure patient survival prediction models while maintaining or enhancing predictive accuracy?"
@@ -36,4 +36,6 @@ The intellectual significance of this study lies in pioneering XAI techniques fo
 Aghamohammadi, N., et al. (2019). Title of Aghamohammadi Paper. Journal of Medical Informatics, 20(3), 123-145.
 
 Wrazen, C., et al. (2023). Title of Wrazen Paper. Journal of Cardiology, 25(2), 67-89.
+
+World Health Organization. (2021). Cardiovascular diseases (CVDs) - Key facts. https://www.who.int/en/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 
