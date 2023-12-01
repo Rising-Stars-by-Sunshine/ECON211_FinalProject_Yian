@@ -6,6 +6,9 @@ The data was directly downloaded from kaggle www.kaggle.com.
 
 ### Step 1
 
-Go to https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+Go to www.kaggle.com. Click **sign up** or **log in**.
 
 ### Step 2
+
+After successfully logging into kaggle, go to https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction.
+
