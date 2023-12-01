@@ -24,7 +24,7 @@ Click **Download(9kb)**.
 
 ### Step 4
 
-A file named **achieve.zip** will be downloaded. UnZip it. There will be a file named **heart.csv**.
+A file named **archive.zip** will be downloaded. UnZip it. There will be a file named **heart.csv**.
 
 <img src="Step4-1.png" alt="Step4-1">
 
