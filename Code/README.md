@@ -39,3 +39,5 @@ A categorical variable comprises values that can be categorized into distinct gr
 To handle categorical variables and facilitate their integration into machine learning workflows, one commonly used tool is the LabelEncoder class from the scikit-learn library (sklearn). The LabelEncoder is designed to transform categorical labels into numerical representations, thus enabling machine learning algorithms to work with them effectively.
 
 ### Pseudocode
+
+<img src="pseudocode.png" alt="pseudocode">
