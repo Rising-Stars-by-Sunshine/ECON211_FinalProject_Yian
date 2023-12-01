@@ -14,6 +14,10 @@ Go to www.kaggle.com. Click **Sign in** or **Register**.
 
 After successfully logging into kaggle, go to https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction.
 
+<img src="Step2.png" alt="Step2">
+
 ### Step 3
 
-Click 
+Click **Download(9kb)**.
+
+<img src="Step3.png" alt="Step3">
