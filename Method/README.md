@@ -7,7 +7,7 @@ Cardiovascular diseases (CVDs) constitute the primary cause of worldwide mortali
 This research endeavors to explore the potential of XAI techniques in enhancing heart failure patient survival prediction by developing interpretable models. Specifically, the study seeks to address the following research question: "Can the integration of XAI techniques improve the transparency and interpretability of heart failure patient survival prediction models while maintaining or enhancing predictive accuracy?"
 
 ## Application Scenarios:
-The implications of this research extend to clinical decision support for heart failure, offering assistance to healthcare professionals in making informed decisions about treatment strategies and resource allocation. The successful implementation of the proposed models could lead to improved patient outcomes and more efficient resource utilization.
+The practical application of this research is embedded in the healthcare landscape, where the developed model can serve as a crucial tool for clinicians and healthcare providers. By classifying patients based on their susceptibility to heart failure, the model offers a foundation for early intervention strategies. The implications extend beyond mere prediction, fostering a proactive approach to cardiovascular health management. Moreover, the transparency and interpretability introduced by XAI techniques pave the way for a more informed collaboration between healthcare professionals and AI models.
 
 ## Data:
 The research will utilize a heart failure prediction dataset from a reliable source, incorporating patient demographics, clinical variables, and survival outcomes. This dataset will serve as the foundation for developing and evaluating machine learning models.
