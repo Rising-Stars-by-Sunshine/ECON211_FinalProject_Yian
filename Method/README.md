@@ -37,6 +37,9 @@ The chosen research method involves a binary classification model enriched with 
 The intellectual significance lies in transforming predictive modeling from a complex, inscrutable process to a transparent and understandable one. This shift empowers healthcare professionals to make informed decisions based on AI predictions, fostering a collaborative approach to patient care. The practical implications are profound, as the model can be seamlessly integrated into clinical workflows, facilitating early intervention and personalized treatment plans.
 This work could be recognized for its transformative contribution to the intersection of artificiaintelligence and healthcare, setting new standards for transparency and interpretability in predictive modeling. The sentences encapsulating the potentialcontribution could read: "This research pioneered the integration of XAl techniques in heart failure prediction, revolutionizing the field by providingtransparent and interpretable models. The consequential improvements in healthcaredecision support systems set a new benchmark, advancing the paradigm of predictivemodeling in critical clinical scenarios."
 
+## Flowchart
+<img src="Flowchart.png" alt="Flowchart">
+
 ## References:
 Aghamohammadi, N., et al. (2019). Title of Aghamohammadi Paper. Journal of Medical Informatics, 20(3), 123-145.
 
