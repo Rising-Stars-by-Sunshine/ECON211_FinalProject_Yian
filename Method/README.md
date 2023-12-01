@@ -19,13 +19,13 @@ The outcomes of this research are expected to yield a refined predictive model f
 The intellectual merits of this research lie in advancing the field of healthcare AI by enhancing the interpretability of predictive models. The infusion of XAI techniques not only contributes to the development of more transparent and trustworthy models but also fosters a bridge between machine predictions and clinical decision-making. The practical impact is profound, as the model holds potential for widespread implementation in healthcare settings, empowering clinicians with a tool that not only predicts heart failure but also provides understandable insights into the factors influencing each prediction. Ultimately, this research seeks to usher in a new era of AI in healthcare, where predictive accuracy aligns seamlessly with interpretability, promoting trust and collaboration in the pursuit of improved patient outcomes.
 
 ## Elucidation of Research Question's Paramount Importance:
--1. Paramount Nature of Research Question:
+1. Paramount Nature of Research Question:
 The research question posed in this study holds paramount significance in the relevant field due to existing limitations in the paradigm of cardiovascular disease prediction. Current models often lack transparency and interpretability, hindering their seamless integration into clinical decision-making. The inability to understand the rationale behind model predictions poses a barrier to widespread acceptance and utilization in healthcare settings. By addressing the integration of Explainable Artificial Intelligence (XAI) techniques, this research seeks to redefine the boundaries of predictive modeling in healthcare, bridging the gap between accurate predictions and actionable insights for clinicians.
 
--2. Limitations of the Existing Paradigm and Research Expansion:
+2. Limitations of the Existing Paradigm and Research Expansion:
 The limitations of current predictive models lie in their "black-box" nature, where the decision-making process is opaque. This lack of interpretability impedes the translation of model predictions into actionable clinical strategies. This research aims to expand these boundaries by incorporating XAI techniques, providing transparent and interpretable insights into the factors influencing heart failure predictions. By demystifying the decision rationale, the model becomes a more reliable and collaborative tool for healthcare professionals.
 
--3. Technique Difficulties and Personal Uniqueness:
+3. Technique Difficulties and Personal Uniqueness:
 The primary technique difficulty is the seamless integration of XAI into existing machine learning models. Challenges include selecting appropriate XAI methods, ensuring their compatibility with diverse data types, and effectively communicating complex insights to healthcare practitioners. My unique position lies in a multidisciplinary background, combining expertise in machine learning, healthcare, and communication. This confluence equips me to navigate technical intricacies while ensuring that the developed models are not only accurate but also comprehensible to non-technical stakeholders, thus facilitating practical implementation.
 
 ## Rationale for Research Method:
