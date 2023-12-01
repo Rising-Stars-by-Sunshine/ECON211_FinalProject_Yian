@@ -10,15 +10,15 @@ This research endeavors to explore the potential of XAI techniques in enhancing 
 The implications of this research extend to clinical decision support for heart failure, offering assistance to healthcare professionals in making informed decisions about treatment strategies and resource allocation. The successful implementation of the proposed models could lead to improved patient outcomes and more efficient resource utilization.
 
 ## Data:
-The research will utilize a heart failure patient survival prediction dataset from a reliable source, incorporating patient demographics, clinical variables, and survival outcomes. This dataset will serve as the foundation for developing and evaluating machine learning models.
+The research will utilize a heart failure prediction dataset from a reliable source, incorporating patient demographics, clinical variables, and survival outcomes. This dataset will serve as the foundation for developing and evaluating machine learning models.
 
 ## Methodology:
-**Model Development:** Train machine learning models for heart failure survival prediction.
+**Model Development:** Train machine learning models for heart failure prediction.
 
-**Model Evaluation:** Assess model performance using standard metrics such as accuracy, sensitivity, specificity, and area under the ROC curve. Evaluate XAI models based on their interpretability.
+**XAI:** Apply SHAP to apply explainability to the model.
 
 ## Results:
-The research aims to provide insights into the effectiveness of XAI techniques in improving the transparency and interpretability of heart failure patient survival prediction models. Results will encompass quantitative model performance metrics and qualitative assessments of model interpretability.
+The research aims to provide insights into the effectiveness of XAI techniques in improving the transparency and interpretability of heart failure patient prediction models. Results will encompass quantitative model performance metrics and qualitative assessments of model interpretability.
 
 ## Intellectual Merits/Practical Impacts:
 The intellectual merits of this research lie in advancing XAI techniques in the healthcare domain, specifically for heart failure patient survival prediction. Enhanced model interpretability can empower healthcare professionals to make more informed and reliable decisions, potentially leading to improved patient outcomes.
