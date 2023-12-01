@@ -1,3 +1,6 @@
+## Description 
+- The heart dataset provides comprehensive information on patients' cardiovascular health, encompassing diverse attributes such as age, gender, chest pain type, blood pressure, cholesterol levels, and various electrocardiographic parameters. With a focus on exercise-induced conditions, the dataset includes variables like maximum heart rate, presence of angina, and ST segment characteristics during exercise. The dataset is designed to facilitate the exploration of factors contributing to heart disease, offering a valuable resource for researchers and healthcare professionals. The inclusion of categorical and numerical variables allows for a nuanced analysis, aiding in the identification of patterns and risk factors associated with cardiovascular health. This dataset is instrumental for developing predictive models and gaining insights into the intricate relationships between patient characteristics and the presence or absence of heart disease.
+
 ## Data Dictionary
 
 | Variable          | Definition                                            | Description                                          | Frequency    | Range              | Unit       | Type      |
