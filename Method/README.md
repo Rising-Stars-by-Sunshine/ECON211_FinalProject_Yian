@@ -1,5 +1,7 @@
 # Method
 
+## Description:
+
 ## Background/Motivation:
 Cardiovascular diseases (CVDs) constitute the primary cause of worldwide mortality, responsible for approximately 17.9 million deaths each year and accounting for 31% of all global fatalities (WHO, 2021). Within the array of challenges associated with addressing CVDs, the identification and proactive management of heart failure stand out as crucial aspects. Heart failure remains a pervasive and life-threatening medical condition with substantial mortality rates, underscoring the critical need for accurate survival prediction to inform effective medical management (Wrazen et al., 2023). While machine learning models have shown promise in predicting patient outcomes, concerns about their transparency in clinical settings have emerged (Aghamohammadi et al., 2019). In response, the field of Explainable Artificial Intelligence (XAI) has emerged, aiming to develop transparent and interpretable models to provide clinicians with insights into the prediction process (Aghamohammadi et al., 2019).
 
