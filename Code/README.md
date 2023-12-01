@@ -34,4 +34,4 @@ A file named **archive.zip** will be downloaded. UnZip it. There will be a file 
 
 ## Data Preprocessing
 
-This
+A categorical variable comprises values that can be categorized into distinct groups based on a specific characteristic. Unlike ordinal variables, categorical variables lack a natural order among their categories. These variables, also known as qualitative or attribute variables, cannot be directly processed by most machine learning algorithms. To address this, it is necessary to convert categorical variables into numerical values. The performance of many algorithms is influenced by the chosen encoding method for categorical variables.
