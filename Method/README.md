@@ -1,5 +1,3 @@
-# Method
-
 ## Description:
 
 ## Background/Motivation:
