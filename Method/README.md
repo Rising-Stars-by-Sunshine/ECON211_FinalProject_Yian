@@ -30,9 +30,9 @@ The intellectual significance of this study lies in pioneering XAI techniques fo
 ## References:
 Aghamohammadi, N., et al. (2019). Title of Aghamohammadi Paper. Journal of Medical Informatics, 20(3), 123-145.
 
-Wrazen, C., et al. (2023). Title of Wrazen Paper. Journal of Cardiology, 25(2), 67-89.
-
 World Health Organization. (2021). Cardiovascular diseases (CVDs) - Key facts. https://www.who.int/en/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+
+Wrazen, C., et al. (2023). Title of Wrazen Paper. Journal of Cardiology, 25(2), 67-89.
 
 ```
 @inproceedings{wrazen2023explainable,
