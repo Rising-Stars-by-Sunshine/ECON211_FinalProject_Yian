@@ -7,16 +7,15 @@ This project aims to improve heart failure prediction by integrating Explainable
 
 ## Table of Contents
 
-1. [Literature](./Literature)
-2. [Method](./Method)
-3. [Data](./Data)
-    1. [Queried-Data](./Data/Queried-Data)
-    2. [Processed-Data](./Data/Processed-Data)
-4. [Code](./Code)
-    1. [Data-Analysis](./Code/Data-Analysis)
-    2. [Data-Query](./Code/Data-Query)
+1. [**Literature**](./Literature)
+2. [**Method**](./Method)
+3. [**Data**](./Data)
+    - 3.1 [Queried-Data](./Data/Queried-Data)
+    - 3.2 [Processed-Data](./Data/Processed-Data)
+4. [**Code**](./Code)
+    - 4.1 [Data-Analysis](./Code/Data-Analysis)
+    - 4.2 [Data-Query](./Code/Data-Query)
 
-  
 ## Self-Introduction
 ### **Education**
 - Yian Pei is currently pursuing a dual degree program at Duke Kunshan University (DKU) and Duke University, with an expected graduation in July 2025.
