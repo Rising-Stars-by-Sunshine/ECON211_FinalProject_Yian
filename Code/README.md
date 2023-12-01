@@ -1,5 +1,7 @@
 ## Description
 
+This section is the detailed data query (and preprocessing) process. A pseudo-code for the process in Latex Table format is provided.
+
 ## Data Query
 
 The data was directly downloaded from kaggle www.kaggle.com. The following steps show the querying process.
