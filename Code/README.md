@@ -41,3 +41,8 @@ To handle categorical variables and facilitate their integration into machine le
 ### Pseudocode
 
 <img src="pseudocode.png" alt="pseudocode">
+
+### Flowchart
+
+<img src="Flowchart.png" alt="Flowchart">
+
