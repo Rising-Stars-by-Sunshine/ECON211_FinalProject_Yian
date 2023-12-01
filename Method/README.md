@@ -9,9 +9,6 @@ This research endeavors to explore the potential of XAI techniques in enhancing 
 ## Application Scenarios:
 The practical application of this research is embedded in the healthcare landscape, where the developed model can serve as a crucial tool for clinicians and healthcare providers. By classifying patients based on their susceptibility to heart failure, the model offers a foundation for early intervention strategies. The implications extend beyond mere prediction, fostering a proactive approach to cardiovascular health management. Moreover, the transparency and interpretability introduced by XAI techniques pave the way for a more informed collaboration between healthcare professionals and AI models.
 
-## Data:
-The research will utilize a heart failure prediction dataset from a reliable source, incorporating patient demographics, clinical variables, and survival outcomes. This dataset will serve as the foundation for developing and evaluating machine learning models.
-
 ## Methodology:
 **Model Development:** Train machine learning models for heart failure prediction.
 
