@@ -1,6 +1,6 @@
 ## Description
 
-This section is the detailed data query (and preprocessing) process. A pseudo-code for the process in Latex Table format is provided.
+This section is the detailed data query (and preprocessing) process. In the preprocessing part, a pseudo-code for the process in Latex Table format is provided.
 
 ## Data Query
 
@@ -33,3 +33,5 @@ A file named **archive.zip** will be downloaded. UnZip it. There will be a file 
 <img src="Step4-2.png" alt="Step4-2">
 
 ## Data Preprocessing
+
+This
