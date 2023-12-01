@@ -34,3 +34,22 @@ Wrazen, C., et al. (2023). Title of Wrazen Paper. Journal of Cardiology, 25(2), 
 
 World Health Organization. (2021). Cardiovascular diseases (CVDs) - Key facts. https://www.who.int/en/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 
+```
+@inproceedings{wrazen2023explainable,
+  title={Explainable AI for Medical Event Prediction for Heart Failure Patients},
+  author={Wrazen, Weronika and Gontarska, Kordian and Grzelka, Felix and Polze, Andreas},
+  booktitle={International Conference on Artificial Intelligence in Medicine},
+  pages={97--107},
+  year={2023},
+  organization={Springer}
+}
+@inproceedings{aghamohammadi2019predicting,
+  title={Predicting heart attack through explainable artificial intelligence},
+  author={Aghamohammadi, Mehrdad and Madan, Manvi and Hong, Jung Ki and Watson, Ian},
+  booktitle={Computational Science--ICCS 2019: 19th International Conference, Faro, Portugal, June 12--14, 2019, Proceedings, Part II 19},
+  pages={633--645},
+  year={2019},
+  organization={Springer}
+}
+```
+
