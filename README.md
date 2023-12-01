@@ -1,8 +1,8 @@
 # ECON211_PS2_Yian
 
-This repository is the problem set 2 for the course ECON211.
-
 ## Description
+
+This repository is the problem set 2 for the course ECON211.
 
 ## Self-Introduction
 ### **Education**
