@@ -1,6 +1,6 @@
 ## Description
 
-This section is the detailed data query (and preprocessing) process. In the preprocessing part, a pseudo-code for the process in Latex Table format is provided.
+This section is the detailed data query (and preprocessing) process.
 
 ## Data Query
 
