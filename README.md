@@ -7,7 +7,7 @@ This project aims to improve heart failure prediction by integrating Explainable
 
 ## Table of Contents
 1. [Self Introduction](#self-introduction)
-2. [Lit](#literature)
+2. [Literature](#Literature)
    1. [Part I](#)
       - [Background](#introduction)
       - [Research Question](#ResearchQuestion)
