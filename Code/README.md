@@ -6,7 +6,7 @@ The data was directly downloaded from kaggle www.kaggle.com.
 
 ### Step 1
 
-Go to www.kaggle.com. Click **sign in** or **Register**.
+Go to www.kaggle.com. Click **Sign in** or **Register**.
 <img src="Step1.png" alt="Step1">
 
 ### Step 2
