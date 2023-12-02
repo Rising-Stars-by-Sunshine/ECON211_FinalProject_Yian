@@ -43,11 +43,11 @@ This work could be recognized for its transformative contribution to the interse
 <img src="Flowchart.png" alt="Flowchart">
 
 ## References:
-Aghamohammadi, N., et al. (2019). Explainable AI for Medical Event Prediction for Heart Failure Patients. Journal of Medical Informatics, 20(3), 123-145.
+Aghamohammadi, N., et al. (2019). Explainable AI for Medical Event Prediction for Heart Failure Patients. *Journal of Medical Informatics, 20(3), 123-145.*
 
 World Health Organization. (2021). Cardiovascular diseases (CVDs) - Key facts. https://www.who.int/en/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
 
-Wrazen, C., et al. (2023). Predicting heart attack through explainable artificial intelligence. Journal of Cardiology, 25(2), 67-89.
+Wrazen, C., et al. (2023). Predicting heart attack through explainable artificial intelligence. *Journal of Cardiology, 25(2), 67-89.*
 
 ```
 @inproceedings{wrazen2023explainable,
