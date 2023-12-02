@@ -30,6 +30,9 @@ The proposed research builds upon these studies by directly addressing the integ
   
 - Compared to the third stream, our research employs machine learning models enriched with XAI techniques, offering improved predictive performance without solely relying on rule-based systems.
 
+## Flowchart
+< img src="Flowchart.png" alt="Flowchart">
+
 ## References:
 Aghamohammadi, S., et al. (2019). Enhancing Transparency and Interpretability in Machine Learning Models for Cardiovascular Disease Prediction. *Journal of Medical Systems, 43(6), 73.*
 
