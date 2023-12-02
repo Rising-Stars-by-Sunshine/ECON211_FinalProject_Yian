@@ -40,5 +40,36 @@ Aghamohammadi, S., et al. (2019). Explainable Artificial Intelligence (XAI) in H
 
 Wrazen, M., et al. (2023). Predictive Modeling in Heart Failure Management: A Machine Learning Approach. *Journal of Cardiovascular Medicine, 24(5), 309-317.*
 
+'''
+@article{aghamohammadi2019enhancing,
+  title={Enhancing Transparency and Interpretability in Machine Learning Models for Cardiovascular Disease Prediction},
+  author={Aghamohammadi, S. and others},
+  journal={Journal of Medical Systems},
+  volume={43},
+  number={6},
+  year={2019},
+  pages={73},
+}
+
+@article{aghamohammadi2019explainable,
+  title={Explainable Artificial Intelligence (XAI) in Healthcare: A Systematic Review},
+  author={Aghamohammadi, S. and others},
+  journal={Health Informatics Journal},
+  volume={25},
+  number={1},
+  year={2019},
+  pages={22-48},
+}
+
+@article{wrazen2023predictive,
+  title={Predictive Modeling in Heart Failure Management: A Machine Learning Approach},
+  author={Wrazen, M. and others},
+  journal={Journal of Cardiovascular Medicine},
+  volume={24},
+  number={5},
+  year={2023},
+  pages={309-317},
+}
+'''
 
 
