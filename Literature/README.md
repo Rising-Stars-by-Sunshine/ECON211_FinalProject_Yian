@@ -30,13 +30,12 @@ The proposed research builds upon these studies by directly addressing the integ
   
 - Compared to the third stream, our research employs machine learning models enriched with XAI techniques, offering improved predictive performance without solely relying on rule-based systems.
 
-**References:**
+## References:
+Aghamohammadi, S., et al. (2019). Enhancing Transparency and Interpretability in Machine Learning Models for Cardiovascular Disease Prediction. *Journal of Medical Systems, 43(6), 73.*
 
-# References
+Aghamohammadi, S., et al. (2019). Explainable Artificial Intelligence (XAI) in Healthcare: A Systematic Review. *Health Informatics Journal, 25(1), 22-48.*
 
-1. Wrazen, M., et al. (2023). [Predictive Modeling in Heart Failure Management: A Machine Learning Approach.](link_to_the_paper) *Journal of Cardiovascular Medicine, 24(5), 309-317.*
+Wrazen, M., et al. (2023). Predictive Modeling in Heart Failure Management: A Machine Learning Approach. *Journal of Cardiovascular Medicine, 24(5), 309-317.*
 
-2. Aghamohammadi, S., et al. (2019). [Explainable Artificial Intelligence (XAI) in Healthcare: A Systematic Review.](link_to_the_paper) *Health Informatics Journal, 25(1), 22-48.*
 
-3. Aghamohammadi, S., et al. (2019). [Enhancing Transparency and Interpretability in Machine Learning Models for Cardiovascular Disease Prediction.](link_to_the_paper) *Journal of Medical Systems, 43(6), 73.*
 
