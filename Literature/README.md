@@ -24,11 +24,11 @@ Another study by Aghamohammadi et al. (2019) focused on enhancing transparency a
 
 The proposed research builds upon these studies by directly addressing the integration of XAI techniques into a predictive model for heart failure. It aims to enhance interpretability while maintaining predictive accuracy, crucial for seamless integration into clinical decision-making.
 
-- In contrast to the first stream of literature, our research emphasizes the development of transparent and interpretable models using XAI techniques.
+- In expanding upon the foundation laid by Wrazen et al. (2023), who focused on the predictive capabilities of machine learning models in heart failure management, our research aims to fill a critical gap by incorporating Explainable Artificial Intelligence (XAI) techniques. The study acknowledges the importance of accurate survival predictions highlighted by Wrazen et al. but goes beyond by addressing concerns related to the interpretability of such models in clinical practice.
+
+-  Moreover, while Aghamohammadi et al. (2019) delved into the broader applications of XAI in healthcare and proposed transparent models for clinicians, our research specifically tailors XAI techniques to the context of heart failure prediction. By doing so, we seek to strike a balance between predictive accuracy and interpretability, a key consideration for successful integration into the complex decision-making processes within healthcare.
   
-- Unlike the second stream, we specifically target heart failure prediction and explore practical implementation strategies.
-  
-- Compared to the third stream, our research employs machine learning models enriched with XAI techniques, offering improved predictive performance without solely relying on rule-based systems.
+- This research also builds upon Aghamohammadi et al.'s (2019) work on enhancing transparency in machine learning models for cardiovascular disease prediction. However, instead of relying solely on rule-based systems, we leverage machine learning algorithms enriched with XAI techniques. This approach aims to overcome limitations associated with rule-based systems and provide a more nuanced understanding of the underlying factors influencing heart failure predictions.
 
 ## Flowchart
 <img src="Flowchart.png" alt="Flowchart">
