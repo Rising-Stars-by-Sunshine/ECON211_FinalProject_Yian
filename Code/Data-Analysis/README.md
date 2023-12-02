@@ -2,10 +2,10 @@
 
 This section is the Data-Analysis section of the project.
 
-## Data Analysis No1
+### Data Analysis No1
 
-This code used preprocessed data from Data-Query.
+This code used preprocessed data from [Data-Query](../Data-Query/).
 
-## Data Analysis No2
+### Data Analysis No2
 
 This code uses the data directly from www.kaggle.com.
