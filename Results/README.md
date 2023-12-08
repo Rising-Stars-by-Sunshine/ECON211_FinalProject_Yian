@@ -71,4 +71,30 @@ In the context of heart health, a high oldpeak might be indicative of certain ca
 
 ### Result
 
-We can observe that
+We can observe that the change of data input will affect the integration of XAI.
+
+This could be due to:
+
+**Biological Differences**:
+
+Gender: Men and women often have different baseline physiological characteristics. For example, men tend to have larger heart sizes and different hormonal profiles than women. These differences can affect the way certain features contribute to predicting heart failure.
+
+Age: As people age, their bodies undergo various changes, and the prevalence of certain risk factors for heart failure may vary. For instance, older individuals may be more likely to have issues like hypertension or coronary artery disease, which can influence the predictive features for heart failure.
+
+**Model&Data flaw**
+
+Figure 2.d has the biggest difference compared to others, as Oldpeak is the highest contributor. This could be due to the fact that Fabove (Female above) has a model of low roc score. And Fabove has a small dataset which may not be statistically representative of the population it aims to model.
+
+Nevertheless, clinicians should still focus on:
+
+**Clinicians should focus on**
+
+ST_Slope: if the slope of the peak exercise ST segment is flat.
+
+ChestPainType: if the patient has an asymptomatic type of chest pain.
+
+ExerciseAngina: if the patient does not exercise
+
+Oldpeak: if a patient has a high oldpeak (oldpeak = ST [Numeric value measured in depression])
+
+and additionally: MaxHR: maximum heart rate achieved
