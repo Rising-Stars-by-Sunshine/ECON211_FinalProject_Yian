@@ -5,9 +5,9 @@ This section describes how the research answers each research question based on 
 
 ### How can SHAP effectively define what clinicians should focus on when predicting heart failure?
 
-<img src="Result1.png" alt="Result">
-
 <div align="center">
+
+<img src="Result1.png" alt="Result">
 
 **Figure 1: Result for first question**
 
@@ -60,11 +60,12 @@ In the context of heart health, a high oldpeak might be indicative of certain ca
 
 ### Does the change of data input (Sex, Age) affect the integration of XAI?
 
+<div align="center">
+  
 <img src="Result2.png" alt="Result">
 
-<div align="center">
-
 **Figure 2: Result for second question**
+
 **a: Male below average age, b: Male above average age, c: Female below average age, d: Female above average age**
 
 </div>
