@@ -2,7 +2,8 @@
 
 ## Description
 
-This section is the detailed data query (and preprocessing) process.
+This repository contains the data query and the data analysis sections of the project.
+This following section is the detailed data query (and preprocessing) process.
 
 ## Data Query
 
