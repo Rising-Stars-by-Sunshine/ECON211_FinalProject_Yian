@@ -65,32 +65,32 @@ The results indicate that SHAP effectively defines key factors for clinicians to
 
 <img src="photo.jpg" alt="photo" width="300" height="420">
 
-### **Education**
-- Yian Pei is currently pursuing a dual degree program at Duke Kunshan University (DKU) and Duke University, with an expected graduation in July 2025.
+### **Self Introduction**
+Hello, I am Yian Pei, a passionate and dedicated individual currently pursuing a dual degree program at Duke Kunshan University (DKU) and Duke University, set to graduate in July 2025. My academic journey has been complemented by valuable research experiences and a commitment to personal and professional growth.
 
-### **Research**
-- Yian Pei gained valuable research experience at the Suzhou Institute of Nano-Tech and Nano-Bionics (SINANO) from July 2019 to August 2021. Working under the guidance of Dr. Jine Wang, Yian actively contributed to a research project focused on the selection of a DNA aptamer for the recognition of Aflatoxin B1 mycotoxin. They were instrumental in developing a fluorescent aptasensor designed for the detection of Aflatoxin B1 in food samples.
+### **Intellectual Growth**
 
-### **Professional Experience**
-- Yian's professional journey included a summer internship at Ainstec from June 2023 to August 2023, where they served as an Algorithm Engineer Intern. During their time at Ainstec, they led a project in point cloud completion and conducted extensive research to successfully implement dense point-to-point correspondence.
+Throughout this course, I've experienced substantial intellectual growth, particularly in understanding the profound impact of applying machine learning to address global issues like cardiovascular diseases (CVDs). My exploration into Explainable Artificial Intelligence (XAI) and its role in enhancing heart failure prediction has illuminated the significance of transparency in the clinical application of predictive models. The magic of interdisciplinary research lies in its ability to weave together diverse perspectives, paving the way for innovative solutions that can truly make a difference in people's lives.
 
-- Additionally, Yian served as a Student Research Intern (Bioinformatics) at SINANO in the same period, where they specialized in image processing and data analysis using ImageJ. They achieved a remarkable 95% accuracy rate in the recognition of tumor cells, employing machine learning techniques.
+### **Professional Growth**
 
-### **Experience**
-- Yian attended the HSYLC (Harvard Summit for Young Leaders in China program) in August 2019, further demonstrating their commitment to personal and professional development.
+Professionally, my journey has been enriched by valuable experiences, from a research stint at the Suzhou Institute of Nano-Tech and Nano-Bionics to an Algorithm Engineer Internship at Ainstec. These experiences, coupled with my role as a Student Research Intern in Bioinformatics, have equipped me with a versatile skill set crucial for navigating the complex intersection of healthcare and artificial intelligence. The course has been instrumental in shaping my ability to integrate skills effectively, creating a robust professional profile poised for meaningful contributions.
 
-### **Publication**
-- Yian Pei has co-authored a publication titled "Development and analysis of a novel AF11–2 aptamer capable of enhancing the fluorescence of aflatoxin B1," which was featured in the Chinese Chemical Letters in 2022. This publication reflects their contributions to cutting-edge research in the field.
+### **Living a Purposeful Life**
+
+Envisioning the future, I aspire to be a pioneer in the field, contributing to advancements recognized globally. Winning the Nobel Prize or Turing Award is not just a personal dream; it's a testament to the impact I hope to make. My feature sentence reflects a commitment to interdisciplinary research: "Yian Pei, a catalyst for change in healthcare and technology, revolutionized the application of machine learning to predict and prevent cardiovascular diseases, advancing human civilization."
+
+My purpose is to be the founding figure of transformative advancements, leaving a legacy that positively influences the intersection of artificial intelligence and healthcare.
+
+### **Final Reflections**
+
+In conclusion, this course has been a transformative journey, fostering both intellectual and professional growth. The interdisciplinary nature of the curriculum has broadened my horizons, and the research on XAI techniques in heart failure prediction aligns seamlessly with my vision of applying AI for societal well-being. As I embark on future endeavors, I am excited about the prospect of making meaningful contributions to healthcare, guided by the principles of transparency, collaboration, and purpose.
 
 ## References
 
 ### Data Source
 
 - [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
-
-### Code Source
-
-- Original
 
 ### Articles
 
