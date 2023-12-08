@@ -47,3 +47,23 @@
 
 ### **Publication**
 - Yian Pei has co-authored a publication titled "Development and analysis of a novel AF11–2 aptamer capable of enhancing the fluorescence of aflatoxin B1," which was featured in the Chinese Chemical Letters in 2022. This publication reflects their contributions to cutting-edge research in the field.
+
+## References
+
+### Data Source
+
+- [Kaggle]((https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction))
+
+### Code Source
+
+- [SALib: An open-source Python library for sensitivity analysis](https://joss.theoj.org/papers/10.21105/joss.00097)
+
+### Articles
+
+- [SALib: An open-source Python library for sensitivity analysis](https://joss.theoj.org/papers/10.21105/joss.00097)
+
+- [Sensitivity analysis: Strategies, methods, concepts, and challenges](https://www.sciencedirect.com/science/article/pii/S1364815215300493)
+
+- [Exploration of parameter influences on the simulated performance of a free water surface wetland model](https://www.sciencedirect.com/science/article/pii/S1364815210000717)
+
+### Literature
