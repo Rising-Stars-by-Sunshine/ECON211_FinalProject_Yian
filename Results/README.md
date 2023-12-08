@@ -64,7 +64,8 @@ In the context of heart health, a high oldpeak might be indicative of certain ca
 
 <div align="center">
 
-**Figure 2: Result for second question a is Male below average age, b is Male above average age, c is Female below average age, d is Female above average age**
+**Figure 2: Result for second question**
+**a: Male below average age, b: Male above average age, c: Female below average age, d: Female above average age**
 
 </div>
 
