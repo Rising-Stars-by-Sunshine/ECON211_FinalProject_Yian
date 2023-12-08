@@ -19,6 +19,9 @@ The practical application of this research is embedded in the healthcare landsca
 
 ## Methodology:
 The research methodology involves the utilization of a random forest classifier with a dataset comprising multiple numerical and categorical features. Machine learning algorithms will be employed to predict the likelihood of heart failure in patients. To enhance transparency and interpretability, Explainable AI techniques will be integrated into the model development process. This includes visualizations, feature importance analyses, and other XAI tools to elucidate the decision-making process of the model.
+
+The dataset was divided into 4 parts: Male above average age, Male below average age, Female above average age, Female below average age. The SHAP analysis will be compared.
+
 ### SHAP
 SHAP, which stands for SHapley Additive exPlanations, is a powerful framework in machine learning for interpreting and understanding the impact of individual features on model predictions. At the core of SHAP is the concept of Shapley values, a mathematical approach rooted in cooperative game theory. In the context of machine learning, SHAP values assign a unique contribution to each feature for a given prediction, revealing the importance of that feature in influencing the model's output.
 
