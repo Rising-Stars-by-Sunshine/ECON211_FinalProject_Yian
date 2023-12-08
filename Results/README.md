@@ -15,6 +15,8 @@ The contribution of ST_Slope_Up and ChestPainType_ASY to heart failure are the h
 
 <img src="Result1.png" alt="Result">
 
+**Figure 1: Result for first question**
+
 **Clinicians should focus on**
 
 **1st** ST_Slope: if the slope of the peak exercise ST segment is flat.
