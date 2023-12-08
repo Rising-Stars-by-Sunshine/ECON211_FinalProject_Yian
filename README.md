@@ -1,9 +1,17 @@
-# ECON211_FinalProject_Yian
+# Applying XAI to Heart Failure Prediction Model
 
-## Description
+## Project information
+- **Author**: Yian Pei, Applied Math - Computer science, Class of 2025, Duke Kunshan University
+- **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
+- **Disclaimer**: Submissions to the Final Project for [Econ211 Intelligent Economy, 2023 Autumn Term (Seven Week - Second)](https://ms.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
+- **Acknowledgments**: I extend my deepest gratitude to Prof. Luyao Zhang, Yiwei Liang, Jiaolun Zhou, Zhe Niu, Enzo Rovira and Zakhar Merinov for their unwavering guidance, expertise, and encouragement, which helped me finish this project.
 
-This repository is the Final Project for the course ECON211.
-This project aims to improve heart failure prediction by integrating Explainable Artificial Intelligence (XAI) techniques into a binary classification model. Focused on healthcare, the research utilizes machine learning algorithms and a diverse dataset to enhance transparency and interpretability. The outcomes are expected to yield a refined predictive model, fostering collaboration between healthcare professionals and AI. The intellectual merits lie in advancing healthcare AI, offering transparent and trustworthy models, while the practical impact empowers clinicians with a tool that predicts heart failure and provides understandable insights for improved patient outcomes.
+- **Project Summary**: 
+  - This project aims to improve heart failure prediction by integrating Explainable Artificial Intelligence (XAI) techniques into a binary classification model. Focused on healthcare, the research utilizes machine learning algorithms and a diverse dataset to enhance transparency and interpretability. The outcomes are expected to yield a refined predictive model, fostering collaboration between healthcare professionals and AI. The intellectual merits lie in advancing healthcare AI, offering transparent and trustworthy models, while the practical impact empowers clinicians with a tool that predicts heart failure and provides understandable insights for improved patient outcomes.
+
+    Research questions:
+  - How can SHAP effectively define what clinicians should focus on when predicting heart failure?
+  - Will the change of data input (Sex, Age) affect the integration of XAI?
 
 ## Table of Contents
 
