@@ -15,11 +15,11 @@ The contribution of ST_Slope_Up and ChestPainType_ASY to heart failure are the h
 
 <img src="Result1.png" alt="Result">
 
-<p align="center">
+<div align="center">
 
 **Figure 1: Result for first question**
 
-</p>
+</div>
 
 **Clinicians should focus on**
 
