@@ -13,14 +13,19 @@ The contribution of ST_Slope_Up and ChestPainType_ASY to heart failure are the h
 
 ### Result
 **Clinicians should focus on**
+
 **1st** ST_Slope: if the slope of the peak exercise ST segment is flat.
+
 **2nd** ChestPainType: if the patient has an asymptomatic type of chest pain.
+
 **3rd** ExerciseAngina: if the patient does not exercise
+
 **4th** Oldpeak: if a patient has a high oldpeak (oldpeak = ST [Numeric value measured in depression])
 
 If patient show some of these symptoms, the clinicians could explain: You have a high possibilty of heart failure because eg. your ST_Slope is flat.
 
 For further explainability, here is definition.
+
 **ST_Slope**: If the slope of the peak exercise ST segment is flat:
 
 The ST segment is a portion of an electrocardiogram (ECG or EKG) that represents the interval between ventricular contraction and relaxation.
