@@ -5,14 +5,6 @@ This section describes how the research answers each research question based on 
 
 ### How can SHAP effectively define what clinicians should focus on when predicting heart failure?
 
-The chart illustrates how each feature influences our predictions. The horizontal axis indicates whether a feature's value contributes positively (shown in red) or negatively (shown in blue) to the prediction. Meanwhile, the vertical axis represents the level of contribution from each feature.
-
-For instance, observing the chart reveals that as the target variable increases (moves to the right), the MaxHR (Maximum Heart Rate) distribution becomes bluer, indicating a negative correlation between the target variable and MaxHR. Similarly, there is a positive correlation between the target variable and Oldpeak, as evident from the chart.
-
-The contribution of ST_Slope_Up and ChestPainType_ASY to heart failure are the highest two.
-
-### Result
-
 <img src="Result1.png" alt="Result">
 
 <div align="center">
@@ -20,6 +12,14 @@ The contribution of ST_Slope_Up and ChestPainType_ASY to heart failure are the h
 **Figure 1: Result for first question**
 
 </div>
+
+The chart illustrates how each feature influences our predictions. The horizontal axis indicates whether a feature's value contributes positively (shown in red) or negatively (shown in blue) to the prediction. Meanwhile, the vertical axis represents the level of contribution from each feature.
+
+For instance, observing the chart reveals that as the target variable increases (moves to the right), the MaxHR (Maximum Heart Rate) distribution becomes bluer, indicating a negative correlation between the target variable and MaxHR. Similarly, there is a positive correlation between the target variable and Oldpeak, as evident from the chart.
+
+The contribution of ST_Slope_Up and ChestPainType_ASY to heart failure are the highest two.
+
+### Result
 
 **Clinicians should focus on**
 
@@ -59,3 +59,15 @@ A higher oldpeak value indicates a greater deviation from the baseline, suggesti
 In the context of heart health, a high oldpeak might be indicative of certain cardiac conditions, and it is a parameter used in medical assessments to evaluate the heart's response to physical stress.
 
 ### Does the change of data input (Sex, Age) affect the integration of XAI?
+
+<img src="Result2.png" alt="Result">
+
+<div align="center">
+
+**Figure 2: Result for second question a is Male below average age, b is Male above average age, c is Female below average age, d is Female above average age**
+
+</div>
+
+### Result
+
+We can observe that
