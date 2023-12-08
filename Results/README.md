@@ -94,14 +94,13 @@ ST_Slope: if the slope of the peak exercise ST segment is flat.
 
 ChestPainType: if the patient has an asymptomatic type of chest pain.
 
-## Flowchart
-
-## Flowchart
-<img src="Flowchart.png" alt="Flowchart">
-
-
 ExerciseAngina: if the patient does not exercise
 
 Oldpeak: if a patient has a high oldpeak (oldpeak = ST [Numeric value measured in depression])
 
 and additionally: MaxHR: maximum heart rate achieved
+
+## Flowchart
+<img src="Flowchart.png" alt="Flowchart">
+
+
