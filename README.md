@@ -56,14 +56,10 @@
 
 ### Code Source
 
-- [SALib: An open-source Python library for sensitivity analysis](https://joss.theoj.org/papers/10.21105/joss.00097)
+- Original
 
 ### Articles
 
-- [SALib: An open-source Python library for sensitivity analysis](https://joss.theoj.org/papers/10.21105/joss.00097)
-
-- [Sensitivity analysis: Strategies, methods, concepts, and challenges](https://www.sciencedirect.com/science/article/pii/S1364815215300493)
-
-- [Exploration of parameter influences on the simulated performance of a free water surface wetland model](https://www.sciencedirect.com/science/article/pii/S1364815210000717)
+- [Cardiovascular diseases (CVDs) - Key facts]([https://joss.theoj.org/papers/10.21105/joss.00097](https://www.who.int/en/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
 
 ### Literature
