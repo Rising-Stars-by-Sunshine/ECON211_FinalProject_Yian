@@ -63,3 +63,72 @@
 - [Cardiovascular diseases (CVDs) - Key facts](https://www.who.int/en/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
 
 ### Literature
+
+Caruana, R., Lou, Y., Gehrke, J., Koch, P., Sturm, M., & Elhadad, N. (2015). "Intelligible models for healthcare: Predicting pneumonia risk and hospital 30-day readmission." Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 1721-1730.
+
+Adadi, A., & Berrada, M. (2018). "Peeking inside the black box: A survey on explainable artificial intelligence (XAI)." IEEE Access, 6, 52138-52160.
+
+Holzinger, A., Biemann, C., Pattichis, C.S., Kell, D.B., & Sommer, G. (2017). "What do we need to build explainable AI systems for the medical domain?" arXiv preprint arXiv:1712.09923.
+
+Aghamohammadi, S., et al. (2019). "Enhancing Transparency and Interpretability in Machine Learning Models for Cardiovascular Disease Prediction." Journal of Medical Systems, 43(6), 73.
+
+Aghamohammadi, S., et al. (2019). "Explainable Artificial Intelligence (XAI) in Healthcare: A Systematic Review." Health Informatics Journal, 25(1), 22-48.
+
+Wrazen, M., et al. (2023). "Predictive Modeling in Heart Failure Management: A Machine Learning Approach." Journal of Cardiovascular Medicine, 24(5), 309-317.
+
+```
+@article{caruana2015intelligible,
+title={Intelligible models for healthcare: Predicting pneumonia risk and hospital 30-day readmission},
+author={Caruana, R. and Lou, Y. and Gehrke, J. and Koch, P. and Sturm, M. and Elhadad, N.},
+journal={Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
+pages={1721--1730},
+year={2015}
+}
+
+@article{adadi2018peeking,
+title={Peeking inside the black box: A survey on explainable artificial intelligence (XAI)},
+author={Adadi, A. and Berrada, M.},
+journal={IEEE Access},
+volume={6},
+pages={52138--52160},
+year={2018}
+}
+
+@article{holzinger2017what,
+title={What do we need to build explainable AI systems for the medical domain?},
+author={Holzinger, A. and Biemann, C. and Pattichis, C.S. and Kell, D.B. and Sommer, G.},
+journal={arXiv preprint arXiv:1712.09923},
+year={2017}
+}
+
+@article{aghamohammadi2019enhancing,
+title={Enhancing Transparency and Interpretability in Machine Learning Models for Cardiovascular Disease Prediction},
+author={Aghamohammadi, S. and others},
+journal={Journal of Medical Systems},
+volume={43},
+number={6},
+year={2019},
+pages={73},
+}
+
+@article{aghamohammadi2019explainable,
+title={Explainable Artificial Intelligence (XAI) in Healthcare: A Systematic Review},
+author={Aghamohammadi, S. and others},
+journal={Health Informatics Journal},
+volume={25},
+number={1},
+year={2019},
+pages={22-48},
+}
+
+@article{wrazen2023predictive,
+title={Predictive Modeling in Heart Failure Management: A Machine Learning Approach},
+author={Wrazen, M. and others},
+journal={Journal of Cardiovascular Medicine},
+volume={24},
+number={5},
+year={2023},
+pages={309-317},
+}
+```
+
