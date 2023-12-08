@@ -15,14 +15,17 @@
 
 ## Table of Contents
 
-1. [**Literature**](./Literature)
-2. [**Method**](./Method)
-3. [**Data**](./Data)
-    - 3.1 [Queried-Data](./Data/Queried-Data)
-    - 3.2 [Processed-Data](./Data/Processed-Data)
-4. [**Code**](./Code)
-    - 4.1 [Data-Analysis](./Code/Data-Analysis)
-    - 4.2 [Data-Query](./Code/Data-Query)
+1. [**Poster and Project Summary**](./Poster-and-Project-Summary)
+2. [**Literature**](./Literature)
+3. [**Method**](./Method)
+4. [**Data**](./Data)
+    - 4.1 [Queried-Data](./Data/Queried-Data)
+    - 4.2 [Processed-Data](./Data/Processed-Data)
+5. [**Code**](./Code)
+    - 5.1 [Data-Analysis](./Code/Data-Analysis)
+    - 5.2 [Data-Query](./Code/Data-Query)
+6. [**Results**](./Results)
+7. [**Spotlights**](./Spotlights)
 
 ## Self-Introduction
 ### **Education**
