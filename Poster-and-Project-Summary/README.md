@@ -28,3 +28,4 @@ The outcomes of this research are expected to yield a refined predictive model f
 The intellectual merits of this research lie in advancing the field of healthcare AI by enhancing the interpretability of predictive models. The infusion of XAI techniques not only contributes to the development of more transparent and trustworthy models but also fosters a bridge between machine predictions and clinical decision-making. The practical impact is profound, as the model holds potential for widespread implementation in healthcare settings, empowering clinicians with a tool that not only predicts heart failure but also provides understandable insights into the factors influencing each prediction. Ultimately, this research seeks to usher in a new era of AI in healthcare, where predictive accuracy aligns seamlessly with interpretability, promoting trust and collaboration in the pursuit of improved patient outcomes.
 
 ## Poster
+<img src="Poster.png" alt="Poster">
