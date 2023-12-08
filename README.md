@@ -26,8 +26,8 @@
     - 5.2 [Data-Query](./Code/Data-Query)
 6. [**Results**](./Results)
 7. [**Spotlights**](./Spotlights)
-8. [**More about the Author**](README.md/More-about-the-Author)
-9. [**References**](README.md/References)
+8. [**More about the Author**](More-about-the-Author)
+9. [**References**](References)
 
 ## Literature
 The proposed research addresses the integration of Explainable Artificial Intelligence (XAI) techniques into heart failure predictive models, building on three literature streams. Firstly, Wrazen et al. (2023) explored machine learning in heart failure but lacked XAI focus. Caruana et al. (2015) surveyed interpretable ML, highlighting healthcare relevance. Secondly, Aghamohammadi et al. (2019) emphasized XAI in healthcare, not specific to heart failure. Adadi et al. (2018) surveyed XAI methods generally. Lastly, Aghamohammadi et al. (2019) enhanced transparency for cardiovascular predictions, but not integrating XAI into existing models. Holzinger et al. (2017) surveyed interpretability methods.
