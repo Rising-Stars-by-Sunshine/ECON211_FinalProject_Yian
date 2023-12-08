@@ -46,6 +46,21 @@ The Code contains data preprocessing, model training, and applying SHAP to model
 The results indicate that SHAP effectively defines key factors for clinicians to focus on when predicting heart failure. The analysis of feature influence highlights the significance of ST_Slope_Up and ChestPainType_ASY in predicting heart failure, with clear guidance for clinicians to prioritize these factors. The subsequent recommendations for clinical focus, elucidated in the context of ST_Slope, ChestPainType, ExerciseAngina, and Oldpeak, provide actionable insights. Furthermore, the interpretability of these features is expounded, aiding clinicians in understanding the implications of flat ST segments, asymptomatic chest pain, lack of exercise, and elevated oldpeak values. The second question explores the impact of changing data inputs (Sex, Age) on the integration of explainable artificial intelligence (XAI), revealing distinct patterns across gender and age groups. The observed variations are attributed to both biological differences and potential model and data flaws. Despite these nuances, the recommended focus areas for clinicians remain consistent, emphasizing the importance of ST_Slope, ChestPainType, ExerciseAngina, Oldpeak, and MaxHR in predicting heart failure.
 ## Spotlight
 
+<div align="center">
+  
+<img src="Poster.png" alt="Poster">
+
+**Figure 1: Poster**
+
+<img src="Result1.png" alt="Result">
+
+**Figure 2: Result for first question**
+
+<img src="Result2.png" alt="Result">
+
+**Figure 3: Result for second question**
+</div>
+
 ## More about the Author
 
 <img src="photo.jpg" alt="photo" width="300" height="420">
