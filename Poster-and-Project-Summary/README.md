@@ -48,3 +48,6 @@ The intellectual merits of this research lie in advancing the field of healthcar
 
 ## Poster
 <img src="Poster.png" alt="Poster">
+
+## Flowchart
+<img src="Flowchart.png" alt="Flowchart">
