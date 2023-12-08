@@ -38,6 +38,7 @@ The outcomes of this research are expected to yield a refined predictive model f
 <img src="Result2.png" alt="Result">
 
 **Figure 2: Result for second question**
+
 **a: Male below average age, b: Male above average age, c: Female below average age, d: Female above average age**
 
 </div>
