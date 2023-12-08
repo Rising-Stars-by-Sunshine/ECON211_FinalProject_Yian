@@ -60,6 +60,6 @@
 
 ### Articles
 
-- [Cardiovascular diseases (CVDs) - Key facts]([https://joss.theoj.org/papers/10.21105/joss.00097](https://www.who.int/en/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
+- [Cardiovascular diseases (CVDs) - Key facts](https://www.who.int/en/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds))
 
 ### Literature
