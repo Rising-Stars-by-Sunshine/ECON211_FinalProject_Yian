@@ -11,7 +11,7 @@ To provide context, cardiovascular health management involves strategies and int
 
 ## Research Question:
 This research endeavors to explore the potential of XAI techniques in enhancing heart failure prediction by developing interpretable models. Specifically, the study seeks to address the following research question: 
-1. How can Explainable Artificial Intelligence (XAI) techniques, specifically SHAP, be effectively integrated into a predictive model for heart failure?
+1. How can SHAP effectively define what people, ie. doctors, should focus on when predicting heart failure?
 2. Will the change of data input (Sex, Age) affect the integration of XAI?
 
 ## Application Scenarios:
