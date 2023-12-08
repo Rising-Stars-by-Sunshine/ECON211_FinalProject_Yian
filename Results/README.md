@@ -11,7 +11,8 @@ For instance, observing the chart reveals that as the target variable increases 
 
 The contribution of ST_Slope_Up and ChestPainType_ASY to heart failure are the highest two.
 
-**Result** Clinicians should focus on 
+### Result
+**Clinicians should focus on**
 **1st** ST_Slope: if the slope of the peak exercise ST segment is flat.
 **2nd** ChestPainType: if the patient has an asymptomatic type of chest pain.
 **3rd** ExerciseAngina: if the patient does not exercise
