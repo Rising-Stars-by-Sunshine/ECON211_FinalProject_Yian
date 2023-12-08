@@ -26,6 +26,20 @@
     - 5.2 [Data-Query](./Code/Data-Query)
 6. [**Results**](./Results)
 7. [**Spotlights**](./Spotlights)
+8. **More about the Author**
+9. **References**
+
+## Literature
+In this research, the literature review focuses on four key articles contributing to the study of parameter weight analysis using SALib. The first article provides an overview of SALib, outlining its significance in sensitivity analysis. The second delves into the Morris algorithm, elucidating its principles and applications. The third article discusses the methodological approach of integrating SALib into research, detailing strategies for its implementation. The fourth article, akin to the third, underscores the methodology but offers unique insights. Together, this literature forms a comprehensive foundation, combining SALib's introduction, Morris algorithm insights, and methodological perspectives for a robust understanding of parameter weight analysis.
+## Method
+In this study, data collection was conducted from two reputable automotive websites, followed by a meticulous data query process to filter out non-compliant data and extraneous parameters. The refined dataset was then subjected to analysis using a black-box model. Subsequently, a custom SALib program was employed to scrutinize the model, ultimately revealing the ranking of parameter weights. This methodology ensures a rigorous and systematic approach, integrating data cleaning, black-box modeling, and sensitivity analysis through SALib, leading to a comprehensive understanding of the influential parameters in the automotive context.
+## Data
+In the data collection phase, information from 800 different car models was gathered, encompassing eight key parameters sourced from two authoritative automotive websites. These parameters constitute a comprehensive dataset that serves as the foundation for analyzing user preferences and priorities in relation to automobiles. The diverse set of parameters allows for a nuanced examination of user attention and interest in various aspects of car specifications. This rich and extensive dataset lays the groundwork for a thorough exploration of user preferences, contributing valuable insights to the understanding of consumer priorities in the automotive domain.
+## Code
+In the code section, I leverage the Morris tool from the SALib package to perform sensitivity analysis. I offer seamless access through Google Colab, providing an online platform for users to interact with and execute the code effortlessly. Additionally, a comprehensive tutorial accompanies the code, guiding users on how to effectively utilize the provided script. This integration of the Morris tool in SALib, coupled with user-friendly access via Google Colab and a detailed tutorial, aims to facilitate a straightforward and insightful exploration of sensitivity analysis for diverse applications.
+## Result
+In the results section, the obtained parameter weight rankings from the black-box model offer valuable insights into the relative importance of each variable. The interpretation of the black-box model sheds light on the key factors influencing the overall system. By deciphering the parameter weightings, a clearer understanding emerges regarding the impact of individual parameters on the model's outcomes. This result not only provides actionable information for refining the model but also contributes to a deeper comprehension of the intricate relationships within the black-box system, enhancing the overall effectiveness and interpretability of the analytical outcomes.
+## Spotlight
 
 ## More about the Author
 
