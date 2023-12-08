@@ -6,6 +6,7 @@ application scenarios, methodology, results, intellectual merits/practical impac
 
 ## Background/Motivation:
 Cardiovascular diseases (CVDs) are a leading global cause of mortality, responsible for 17.9 million deaths annually, constituting 31% of global fatalities (World Health Organization [WHO], 2021). Within the challenges posed by CVDs, effective identification and proactive management of heart failure are paramount. Heart failure, a pervasive and life-threatening condition, emphasizes the critical necessity for accurate survival prediction to inform medical management (Wrazen et al., 2023). The application of machine learning models in predicting patient outcomes shows promise, but concerns about their transparency in clinical settings have arisen (Aghamohammadi et al., 2019). In response, Explainable Artificial Intelligence (XAI) has emerged to develop transparent and interpretable models, providing clinicians with insights into the prediction process (Aghamohammadi et al., 2019).
+
 To provide context, cardiovascular health management involves strategies and interventions to prevent and treat cardiovascular diseases. In reality, the current status quo of cardiovascular health management involves a combination of lifestyle modifications, medication, and, in severe cases, surgical interventions. Clinicians use risk prediction models to assess an individual's likelihood of developing heart failure, guiding personalized treatment plans.
 
 ## Research Question:
