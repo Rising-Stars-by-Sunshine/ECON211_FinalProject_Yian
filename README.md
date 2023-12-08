@@ -27,7 +27,7 @@
 6. [**Results**](./Results)
 7. [**Spotlights**](./Spotlights)
 
-## Self-Introduction
+## More about the Author
 ### **Education**
 - Yian Pei is currently pursuing a dual degree program at Duke Kunshan University (DKU) and Duke University, with an expected graduation in July 2025.
 
