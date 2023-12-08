@@ -8,4 +8,4 @@ This code is for the Data Preprocessing in [Code](../README.md#data-preprocessin
 
 ### Divide
 
-This code is newly added. It divides the dataset into 4 sections.
+This code is newly added. It divides the dataset into 4 sections: male_below_age, male_above_age, female_below_age, female_above_age.
