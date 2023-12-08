@@ -5,7 +5,7 @@ This following section provides a summary to the project along with a poster of 
 Cardiovascular diseases (CVDs) are a leading global cause of mortality, necessitating effective identification and proactive management of heart failure. Addressing concerns about machine learning model transparency in clinical settings, this project explores the potential of Explainable Artificial Intelligence (XAI), specifically SHAP, in enhancing heart failure prediction.
 
 ## Research Question
-1. How can SHAP be effectively integrated into a predictive model for heart failure？
+1. How can SHAP effectively define what people, ie. doctors, should focus on when predicting heart failure?
 2. Does the change of data input (Sex, Age) affect the integration of XAI?
 
 ## Application Scenarios
