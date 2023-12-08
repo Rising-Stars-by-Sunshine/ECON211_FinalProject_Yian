@@ -52,7 +52,7 @@
 
 ### Data Source
 
-- [Kaggle]((https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction))
+- [Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 ### Code Source
 
